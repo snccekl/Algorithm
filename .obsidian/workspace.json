@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "6e7a5576352cae3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7f14b58e89a2530",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "586d508dfc918f1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/代码随想录/day1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "day1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d32cb339f6ada964",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4676c0de6a9aac9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "183f030f8b200a32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b826ac4e8fca5969",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "55667858a13431f8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "34f05e5a450f604f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5
+  },
+  "right": {
+    "id": "424efae6b525719d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7845016c89f0c13f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f80d76af11b2468e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第一次作业.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "第一次作业 的反向链接列表"
+            }
+          },
+          {
+            "id": "0b4fe51388f8585a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "第一次作业.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "第一次作业 的出链列表"
+            }
+          },
+          {
+            "id": "9f70ef6b84e4ebef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b88e73d4dc376dfc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第一次作业.md"
+              },
+              "icon": "lucide-list",
+              "title": "第一次作业 的大纲"
+            }
+          },
+          {
+            "id": "d03240781e2fc671",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "586d508dfc918f1c",
+  "lastOpenFiles": [
+    "LeetCode/代码随想录/数组/27.cpp",
+    "LeetCode/代码随想录/数组/104.cpp",
+    "Chapter 2/2-17.md",
+    "Chapter 2/2-16.md",
+    "Chapter 2/2-15.md",
+    "Chapter 2/2-14.md",
+    "Chapter 2/2-144.md",
+    "Chapter 2/2-13.md",
+    "Chapter 2/2-12.md",
+    "第2章 变量和基本类型.md",
+    "test",
+    "test.cpp",
+    "附件/C++ Arithmetic Types.png",
+    "附件",
+    "自我介绍.md",
+    "计算机网络复习-分层结构.md",
+    "计算机网络复习-绪论.md",
+    "欢迎.md",
+    "附件/Pasted image 20250701195637.png",
+    "附件/01FD7AF0.png",
+    "大数据复习.md",
+    "附件/Pasted image 20250613164119.png",
+    "附件/Pasted image 20250613164051.png",
+    "MPLab2-221220076-落华栋.md",
+    "Jar包执行方式说明.txt",
+    "MPLab2-221220076-落华栋.pdf",
+    "附件/Pasted image 20250330201013.png",
+    "附件/Pasted image 20250330200956.png",
+    "附件/Pasted image 20250330200927.png",
+    "附件/Pasted image 20250330200908.png",
+    "221220076_落华栋_BG_1.pdf",
+    "附件/Pasted image 20250330200822.png",
+    "大数据实验一实验报告.md",
+    "report.md",
+    "大数据实验一实验报告.pdf",
+    "志愿填报.md",
+    "第一次作业.md",
+    "字符串.md",
+    "滑动窗口.md",
+    "README.md",
+    "SADA(1)(1).pdf",
+    "力扣/力扣日常.md",
+    "位运算、双指针与二分.md",
+    "CF和Atcoder/Atcoder补题.md",
+    "动态规划.md",
+    "CF和Atcoder",
+    "未命名.canvas"
+  ]
+}
