@@ -48,9 +48,37 @@
               "icon": "lucide-file",
               "title": "day4"
             }
+          },
+          {
+            "id": "305d8b9944437227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/代码随想录/哈希表/day5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "day5"
+            }
+          },
+          {
+            "id": "0a599a3f7e3f54d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/代码随想录/哈希表/day5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "day5"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -220,11 +248,20 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "5ceb4b429d4605a1",
+  "active": "0a599a3f7e3f54d6",
   "lastOpenFiles": [
+    "LeetCode/代码随想录/哈希表/202.cpp",
+    "LeetCode/代码随想录/哈希表/349.cpp",
+    "LeetCode/代码随想录/哈希表/242.cpp",
+    "LuoGu/枚举/7-25.md",
+    "LeetCode/代码随想录/哈希表",
+    "LeetCode/代码随想录/哈希表/day5.md",
+    "LeetCode/代码随想录/链表/day4.md",
+    "LeetCode/代码随想录/数组/day1.md",
+    "LeetCode/代码随想录/数组/day2.md",
+    "附件/LT142.png",
     "LeetCode/代码随想录/链表/142.cpp",
     "LuoGu/排序/7-24.md",
-    "LeetCode/代码随想录/链表/day4.md",
     "附件/Pasted image 20250724225731.png",
     "附件",
     "LeetCode/代码随想录/链表/面试0207.cpp",
@@ -233,11 +270,8 @@
     "LeetCode/代码随想录/链表/day3.md",
     "LeetCode/代码随想录/链表/206.cpp",
     "LeetCode/代码随想录/链表/20",
-    "LeetCode/代码随想录/数组/day1.md",
-    "LeetCode/代码随想录/数组/day2.md",
     "LuoGu/排序/7-22.md",
     "LeetCode/代码随想录/数组/27.cpp",
-    "LeetCode/代码随想录/数组/104.cpp",
     "Chapter 2/2-17.md",
     "Chapter 2/2-16.md",
     "Chapter 2/2-15.md",
@@ -246,8 +280,6 @@
     "Chapter 2/2-13.md",
     "Chapter 2/2-12.md",
     "第2章 变量和基本类型.md",
-    "test",
-    "test.cpp",
     "附件/C++ Arithmetic Types.png",
     "自我介绍.md",
     "计算机网络复习-分层结构.md",
@@ -259,15 +291,11 @@
     "附件/Pasted image 20250613164119.png",
     "附件/Pasted image 20250613164051.png",
     "MPLab2-221220076-落华栋.md",
-    "Jar包执行方式说明.txt",
     "附件/Pasted image 20250330201013.png",
     "附件/Pasted image 20250330200956.png",
     "附件/Pasted image 20250330200927.png",
-    "附件/Pasted image 20250330200908.png",
     "大数据实验一实验报告.md",
     "report.md",
-    "志愿填报.md",
-    "第一次作业.md",
     "未命名.canvas"
   ]
 }

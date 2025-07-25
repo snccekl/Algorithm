@@ -1,6 +1,6 @@
 
 ---
-title: 7-244 代码随想录之链表
+title: 7-24 代码随想录之链表
 
 date: 2025-07-24
 
@@ -70,7 +70,7 @@ public:
 但是第一次确实没想到要怎么判断环的入口在哪里
 
 借一下灵神的图吧
-![[Pasted image 20250724225731.png]]
+![[LT142.png]]
 
 > [!NOTE] 链接
 > [142. 环形链表 II - 力扣（LeetCode）](https://leetcode.cn/problems/linked-list-cycle-ii/solutions/1999271/mei-xiang-ming-bai-yi-ge-shi-pin-jiang-t-nvsq/)
